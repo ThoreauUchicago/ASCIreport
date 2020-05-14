@@ -1,0 +1,4 @@
+# Calibration and Maintenance
+
+Proper sensor operations rely on precisely calibrated sensors. Calibration is a tedious exercise. Inaccuracies in data may be noticed if the sensors or their accessories \(panels, connecting cables, batteries, etc.\) are not maintained in good condition. This not only leads to a faulty understanding of water quality by decision makers, but also wastage of resources and efforts spent on conducting the monitoring.Sensor probes for certain parameters such as nitrate and pH have to be replaced from time to time. Long lead times for such probes make it imperative to have backup and plan in advance to not stall operations in between. Repairs and replacement may often not be possible locally. Sending it to another location \(usually back to themanufacturer in a different country\) may impedethe experiments for weeks. All of this could make it a cumbersome process.
+

@@ -1,0 +1,4 @@
+# Monitoring Frequency
+
+CPCB guidelines require collection of data once a month from identified manual sampling stations. This way it is able to collect, on an average, one data point a month from a stretch of 42 km in River Godavari. This provides scarce data and may not be useful for proper analysis. In contrast, sensors can collect data at sampling intervals as low as one second. We usually tune them to record a parameter value every 10 seconds so as to collect data every few metres. Water to-Cloud system, thus, collected 1000-1500 points over a single boat ride lasting 3-4 hours in a 4-6 km stretch of river. Generally, four boat rides are carried out in a month-two in the morning and two in the evening. In case of drain monitoring, sensors are dipped into the drains on a biweekly basis.
+

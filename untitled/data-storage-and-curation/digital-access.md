@@ -1,0 +1,4 @@
+# Digital Access
+
+To democratize access to water quality data, it is made available to everyone. These heat maps can be accessed at [http://thoreau.uchicago.edu/](http://thoreau.uchicago.edu/). The website is hosted on the UChicago server. It is developed and designed mainly in Django virtual environment, JavaScript and Cascading Style Sheets \(CSS\). The plots are uploaded on the web-server, and are available for browsing over different dates. This process is automated by printing plots over the webpages through a python script. All data can also be downloaded from the website by clicking the download button. A dashboard provides an overview of all the experiments conducted by Water-to-Cloud across India so far. It provides a visual representation of the water quality parameters collected in different parts of India. This enables comparison of parameters among different sites and time trend Analyzes of parameters at a particular site.
+

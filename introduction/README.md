@@ -1,0 +1,6 @@
+# Introduction
+
+In September 2015, the United Nations adopted ‘Clean Water and Sanitation’ as one of the Sustainable Development Goals for 2030. Access to clean and safe water resources is central to this vision. Millions of people residing in river basins across the world are dependent directly or indirectly on river ecosystems. Rivers may encounter pollutants entering them due to industrial, agricultural or anthropogenic activities. India’s major rivers are known to be polluted with fecal matter, organic content, and chemical pollution. A 2018 Central Pollution Control Board \(CPCB\) report shows that between 2016 and 2018 the number of polluted stretches in India’s rivers has increased to 351 from 302. $$^4$$ 
+
+Water quality and waste water monitoring are fundamental tools in freshwater resources management and provide essential information on determining the physical, chemical and/ or biological characteristics of water resources, trends and changes over time, and emerging water quality issues. They also provide the means to identify policies and measures to enhance water quality, control water pollution from specific sources, evaluate the efficacy of pollution control interventions, and deal with water quality emergencies$$^5$$.
+
